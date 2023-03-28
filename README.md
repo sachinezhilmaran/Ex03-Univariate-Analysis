@@ -25,8 +25,8 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 # Program:
 ```
-Program developed by : Jaison Raphael.V
-Register number : 212221230038
+Program developed by : SACHIN E A
+Register number : 212221040139
 
 import pandas as pd
 import numpy as np
